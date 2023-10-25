@@ -1,0 +1,28 @@
+Write an blong on difference between Document and windows object
+
+Answer:
+
+Document:
+
+The Document object acts as a complete view of the web page's content and layout. 
+
+In Document we can access, interact with, and change the elements, properties, and content of the webpage loaded in the browser, making it easier 
+for developers to build interactive and responsive web applications
+
+The Document object serves as a repository for housing and managing properties that are directly linked to it
+
+The loading of the Document object occurs subsequent to the loading of the window.
+
+Document object through the Window object, providing a structured and organized way to work with the web page's content and structure
+
+Windows:
+
+Window object plays the role of representing the browser window that you are currently using to view web content and It is loaded before the 
+document because window container document
+
+It allows developers to access and manipulate various aspects of the browser window, including its dimensions, navigation history, and 
+interaction with the user.
+
+The Window object, acting as the browser's main container, creates the environment in which the document will be presented.
+
+The Window object is a fundamental element within web browsers, and it serves as the top-level object that represents the browser's window or tab
